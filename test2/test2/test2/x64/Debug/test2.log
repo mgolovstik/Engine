@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\m_sfml_test\test2\test2\main.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
