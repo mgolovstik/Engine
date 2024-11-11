@@ -25,7 +25,7 @@ int main() {
 
 	sf::RenderWindow window(sf::VideoMode(windowX, windowY), "Test", sf::Style::Close | sf::Style::Titlebar);
 	sf::Image imageOfIcon;
-	imageOfIcon.loadFromFile("D:\\m_sfml_test\\pictures\\icon.png");
+	imageOfIcon.loadFromFile("D:\\LabGit\\Z7BEngine\\pictures\\icon.png");
 	window.setIcon(imageOfIcon.getSize().x, imageOfIcon.getSize().y, imageOfIcon.getPixelsPtr());
 	
 	Scene scene = Scene(&window, windowX, windowY);

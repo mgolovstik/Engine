@@ -1,10 +1,10 @@
 ﻿  main.cpp
-D:\m_sfml_test\test2\test2\Engine.h(77,8): warning C4099: Circle: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
-D:\m_sfml_test\test2\test2\Engine.h(217,144): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-D:\m_sfml_test\test2\test2\Engine.h(217,84): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-D:\m_sfml_test\test2\test2\Engine.h(230,147): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-D:\m_sfml_test\test2\test2\Engine.h(230,76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-D:\m_sfml_test\test2\test2\Engine.h(262,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-D:\m_sfml_test\test2\test2\Engine.h(262,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-D:\m_sfml_test\test2\test2\Engine.h(344,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  test2.vcxproj -> D:\m_sfml_test\test2\x64\Debug\test2.exe
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(77,8): warning C4099: Circle: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(217,144): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(217,84): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(230,147): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(230,76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(262,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(262,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\LabGit\Z7BEngine\test2\test2\Engine.h(344,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  test2.vcxproj -> D:\LabGit\Z7BEngine\test2\x64\Debug\test2.exe

@@ -34,7 +34,7 @@ std::string TexturesPaths[TypesOfObject::LastTypesOfObject][Direction::Last][Max
 sf::Image TexturesImages[TypesOfObject::LastTypesOfObject][Direction::Last][MaxTexturesCount];
 sf::Texture Textures[TypesOfObject::LastTypesOfObject][Direction::Last][MaxTexturesCount];
 
-void loadTextures(std::string startPath = "D:\\m_sfml_test\\pictures\\") {
+void loadTextures(std::string startPath = "D:\\LabGit\\Z7BEngine\\pictures\\") {
 	// Point
 	{
 		SpriteOriginsX[TypesOfObject::Point] = 0.5;
